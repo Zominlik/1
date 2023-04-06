@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Public Sans", sans-serif;
+}
+
+/* header parts */
+
+.container {
+  margin: 0 auto;
+  width: 375px;
+}
+
+.header__hero {
+  height: 64px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+/* header parts */
+
+/* main--part */
+
+.main__section {
+}
+
+.recuest__title {
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: 0.71px;
+}
+
+.this__text {
+  text-align: center;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0.23px;
+}
+
+.choose__section {
+  margin: 0 auto;
+  width: 375px;
+}
+
+.recuest__btn {
+  justify-self: center;
+  width: 163px;
+  height: 44px;
+  background-image: linear-gradient(#33d35e, #2ab6d9);
+  border-radius: 22px;
+  border: none;
+}
+
+.recuest__btn a {
+  text-decoration: none;
+}
+
+.choose__title {
+  color: #2d314d;
+  font-weight: 100;
+  font-size: 32px;
+  line-height: 37.6px;
+  letter-spacing: 0.57px;
+  align-self: center;
+}
+
+.simple__cards .why__card1,
+.why__card2,
+.why__card3,
+.why__card4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.card__title__for {
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0.23px;
+  align-self: center;
+}
+
+.benefits__section .bnefits__section1,
+.bnefits__section2,
+.bnefits__section3,
+.bnefits__section4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+..benefits__section .bnefits__section1 .this__textp2 {
+  color: #9597a5;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+}
+
+.text__enjoy {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.285714px;
+}
+
+/* main--part */
+
+/* footer--part */
+
+.footer {
+  margin: 0 auto;
+  width: 375px;
+  height: 510px;
+  background-color: #2d314d;
+}
+
+.footer .footer__items {
+  display: inline-block;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+}
+
+.footer .container .footer__feedbacks img {
+    background-color: white;
+   text-align: center;
+}
+
+.footer .footer__items .footer__item i {
+  color: white;
+}
+
+.footer .container .footer__feedbacks {
+  text-align: center;
+}
+
+
+
+.footer__item__links .footer__links .footer__link
+
+footer .footer__item__links ul {
+    background-color: yellow;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+
+/* footer--part */
